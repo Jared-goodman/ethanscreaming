@@ -4,12 +4,10 @@ type python screams.py
 
 then the notes
 
-0 is high c
+0 is high c, space is rest
 
-if you are on linux replace "afplay" with "play" because I'm too lazy to make it portable
-
-Example that plays hot cross buns:
+Example that plays old mcdonald:
 
 python screams.py
 
-bagbagggggaaaabag
+ggggdeed bbaag
